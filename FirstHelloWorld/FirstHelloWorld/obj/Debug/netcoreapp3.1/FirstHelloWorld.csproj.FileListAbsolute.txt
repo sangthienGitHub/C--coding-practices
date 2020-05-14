@@ -1,0 +1,13 @@
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\FirstHelloWorld\FirstHelloWorld\bin\Debug\netcoreapp3.1\FirstHelloWorld.exe
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\FirstHelloWorld\FirstHelloWorld\bin\Debug\netcoreapp3.1\FirstHelloWorld.deps.json
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\FirstHelloWorld\FirstHelloWorld\bin\Debug\netcoreapp3.1\FirstHelloWorld.runtimeconfig.json
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\FirstHelloWorld\FirstHelloWorld\bin\Debug\netcoreapp3.1\FirstHelloWorld.runtimeconfig.dev.json
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\FirstHelloWorld\FirstHelloWorld\bin\Debug\netcoreapp3.1\FirstHelloWorld.dll
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\FirstHelloWorld\FirstHelloWorld\bin\Debug\netcoreapp3.1\FirstHelloWorld.pdb
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\FirstHelloWorld\FirstHelloWorld\obj\Debug\netcoreapp3.1\FirstHelloWorld.csprojAssemblyReference.cache
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\FirstHelloWorld\FirstHelloWorld\obj\Debug\netcoreapp3.1\FirstHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\FirstHelloWorld\FirstHelloWorld\obj\Debug\netcoreapp3.1\FirstHelloWorld.AssemblyInfoInputs.cache
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\FirstHelloWorld\FirstHelloWorld\obj\Debug\netcoreapp3.1\FirstHelloWorld.AssemblyInfo.cs
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\FirstHelloWorld\FirstHelloWorld\obj\Debug\netcoreapp3.1\FirstHelloWorld.dll
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\FirstHelloWorld\FirstHelloWorld\obj\Debug\netcoreapp3.1\FirstHelloWorld.pdb
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\FirstHelloWorld\FirstHelloWorld\obj\Debug\netcoreapp3.1\FirstHelloWorld.genruntimeconfig.cache
