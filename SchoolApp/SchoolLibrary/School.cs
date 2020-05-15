@@ -14,6 +14,23 @@ namespace SchoolLibrary
         string Zip { get; set; }
         string Number { get; set; }
 
+        string _twitterAddress;
+        string TwitterAddress
+        {
+            //make sure the twitter address start with @
+            get { return _twitterAddress; }
+            set
+            {
+                if (value.StartsWith("@"))
+                {
+                    _twitterAddress = value;
+                }else
+                {
+                    throw new Exception("The twitter address must begin with @");
+                }
+            }
+        }
+
         Elementary.Volume volume;
         HighSchool.Volume volume2;
     }
