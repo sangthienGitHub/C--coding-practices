@@ -47,11 +47,13 @@ namespace SchoolLibrary
             PhoneNumber = SchoolNumber;
         }
 
-        public float AverageThreeScores(float a, float b, float c)
-        {
-            var result = (a + b + c) / 3;
-            return result;
-        }
+        //public float AverageThreeScores(float a, float b, float c)
+        //{
+        //    var result = (a + b + c) / 3;
+        //    return result;
+        //}
+
+        public float AverageThreeScores(float a, float b, float c) => (a + b + c) / 3;
 
         public int AverageThreeScores(int a, int b, int c)
         {
