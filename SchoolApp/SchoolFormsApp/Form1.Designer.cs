@@ -1,4 +1,6 @@
-﻿namespace SchoolFormsApp
+﻿using System;
+
+namespace SchoolFormsApp
 {
     partial class Form1
     {
@@ -43,6 +45,8 @@
             this.label7 = new System.Windows.Forms.Label();
             this.txtTwitter = new System.Windows.Forms.TextBox();
             this.btnPushToTest = new System.Windows.Forms.Button();
+            this.btnTestTeacher = new System.Windows.Forms.Button();
+            this.btnTestStudent = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -174,11 +178,33 @@
             this.btnPushToTest.UseVisualStyleBackColor = true;
             this.btnPushToTest.Click += new System.EventHandler(this.btnPushToTest_Click);
             // 
+            // btnTestTeacher
+            // 
+            this.btnTestTeacher.Location = new System.Drawing.Point(168, 328);
+            this.btnTestTeacher.Name = "btnTestTeacher";
+            this.btnTestTeacher.Size = new System.Drawing.Size(120, 23);
+            this.btnTestTeacher.TabIndex = 8;
+            this.btnTestTeacher.Text = "Test Teacher";
+            this.btnTestTeacher.UseVisualStyleBackColor = true;
+            this.btnTestTeacher.Click += new System.EventHandler(this.btnTestTeacher_Click_1);
+            // 
+            // btnTestStudent
+            // 
+            this.btnTestStudent.Location = new System.Drawing.Point(168, 381);
+            this.btnTestStudent.Name = "btnTestStudent";
+            this.btnTestStudent.Size = new System.Drawing.Size(120, 23);
+            this.btnTestStudent.TabIndex = 9;
+            this.btnTestStudent.Text = "Test Student";
+            this.btnTestStudent.UseVisualStyleBackColor = true;
+            this.btnTestStudent.Click += new System.EventHandler(this.btnTestStudent_Click_1);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnTestStudent);
+            this.Controls.Add(this.btnTestTeacher);
             this.Controls.Add(this.btnPushToTest);
             this.Controls.Add(this.txtTwitter);
             this.Controls.Add(this.txtPhone);
@@ -202,6 +228,11 @@
 
         }
 
+        private void btnTestStudent_Click(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
         #endregion
 
         private System.Windows.Forms.Label label1;
@@ -219,6 +250,8 @@
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.TextBox txtTwitter;
         private System.Windows.Forms.Button btnPushToTest;
+        private System.Windows.Forms.Button btnTestTeacher;
+        private System.Windows.Forms.Button btnTestStudent;
     }
 }
 
