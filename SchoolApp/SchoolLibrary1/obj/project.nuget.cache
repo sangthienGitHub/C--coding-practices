@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2hTWTASKFqnrkLZ17FC/8J1LsVaD1cWYY8eiTmbpJ/riJFi4YOnlnzcHn7QIcxoI1W1r3uCVM9FG5FmHs9sEUA==",
+  "dgSpecHash": "so22DjOkEEw7ggQodQyIURy0DRrNGQp930sniZhsoSZmwErN04ZdvnYLrMv1OlZNgUcXzKXejgJO4krhZu84BA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sangt\\sangthienGitHub\\CSharp-coding-practices\\SchoolApp\\SchoolLibrary\\SchoolLibrary.csproj",
+  "projectFilePath": "C:\\Users\\sangt\\sangthienGitHub\\CSharp-coding-practices\\SchoolApp\\SchoolLibrary1\\SchoolLibrary1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sangt\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\sangt\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

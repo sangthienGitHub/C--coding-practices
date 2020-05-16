@@ -1,0 +1,9 @@
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary1\bin\Debug\netstandard2.1\SchoolLibrary1.deps.json
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary1\bin\Debug\netstandard2.1\SchoolLibrary1.dll
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary1\bin\Debug\netstandard2.1\SchoolLibrary1.pdb
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary1\obj\Debug\netstandard2.1\SchoolLibrary1.csprojAssemblyReference.cache
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary1\obj\Debug\netstandard2.1\SchoolLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary1\obj\Debug\netstandard2.1\SchoolLibrary1.AssemblyInfoInputs.cache
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary1\obj\Debug\netstandard2.1\SchoolLibrary1.AssemblyInfo.cs
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary1\obj\Debug\netstandard2.1\SchoolLibrary1.dll
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary1\obj\Debug\netstandard2.1\SchoolLibrary1.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sangt\\sangthienGitHub\\CSharp-coding-practices\\SchoolApp\\SchoolLibrary\\SchoolLibrary.csproj": {}
+    "C:\\Users\\sangt\\sangthienGitHub\\CSharp-coding-practices\\SchoolLibrary1\\SchoolLibrary1\\SchoolLibrary1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sangt\\sangthienGitHub\\CSharp-coding-practices\\SchoolApp\\SchoolLibrary\\SchoolLibrary.csproj": {
+    "C:\\Users\\sangt\\sangthienGitHub\\CSharp-coding-practices\\SchoolLibrary1\\SchoolLibrary1\\SchoolLibrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sangt\\sangthienGitHub\\CSharp-coding-practices\\SchoolApp\\SchoolLibrary\\SchoolLibrary.csproj",
-        "projectName": "SchoolLibrary",
-        "projectPath": "C:\\Users\\sangt\\sangthienGitHub\\CSharp-coding-practices\\SchoolApp\\SchoolLibrary\\SchoolLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\sangt\\sangthienGitHub\\CSharp-coding-practices\\SchoolLibrary1\\SchoolLibrary1\\SchoolLibrary1.csproj",
+        "projectName": "SchoolLibrary1",
+        "projectPath": "C:\\Users\\sangt\\sangthienGitHub\\CSharp-coding-practices\\SchoolLibrary1\\SchoolLibrary1\\SchoolLibrary1.csproj",
         "packagesPath": "C:\\Users\\sangt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sangt\\sangthienGitHub\\CSharp-coding-practices\\SchoolApp\\SchoolLibrary\\obj\\",
+        "outputPath": "C:\\Users\\sangt\\sangthienGitHub\\CSharp-coding-practices\\SchoolLibrary1\\SchoolLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sangt\\AppData\\Roaming\\NuGet\\NuGet.Config",

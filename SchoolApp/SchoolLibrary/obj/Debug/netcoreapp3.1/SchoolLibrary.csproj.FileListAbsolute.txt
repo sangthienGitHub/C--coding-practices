@@ -1,0 +1,9 @@
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.deps.json
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.dll
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.pdb
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.csprojAssemblyReference.cache
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.AssemblyInfo.cs
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.dll
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.pdb

@@ -1,0 +1,12 @@
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe.config
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.pdb
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csprojAssemblyReference.cache
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.Properties.Resources.resources
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.GenerateResource.cache
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.CopyComplete
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.exe
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.pdb
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibrary.dll
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibrary.pdb
