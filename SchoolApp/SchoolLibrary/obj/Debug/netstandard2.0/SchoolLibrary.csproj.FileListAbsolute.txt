@@ -6,3 +6,4 @@ C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary\o
 C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.AssemblyInfo.cs
 C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.dll
 C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.pdb
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.csprojAssemblyReference.cache

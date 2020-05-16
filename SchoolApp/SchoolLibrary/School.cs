@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SchoolLibrary
 {
-    class School
+    public class School
     {
         //Auto Properties
         public string Name { get; set; }
@@ -67,7 +67,7 @@ namespace SchoolLibrary
             var sb = new StringBuilder();
             sb.AppendLine(Name);
             sb.AppendLine(Address);
-            sb.AppendLine(this.City);
+            sb.Append(this.City);
             sb.Append(" ,");
             sb.Append(this.State);
             sb.Append(" ");

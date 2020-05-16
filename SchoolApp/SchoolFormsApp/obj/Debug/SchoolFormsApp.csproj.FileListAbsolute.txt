@@ -10,3 +10,4 @@ C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolFormsApp\
 C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.pdb
 C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibrary.dll
 C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibrary.pdb
+C:\Users\sangt\sangthienGitHub\CSharp-coding-practices\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.Form1.resources
