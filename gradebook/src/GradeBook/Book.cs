@@ -4,9 +4,22 @@ using System.Collections.Generic;
 
 namespace GradeBook
 {
-    public class Book
+    public class NameObject
     {
-        public Book(string name)
+        public NameObject(string name)
+        {
+            Name = name;
+        }
+
+        public string Name
+        {
+            get;
+            set;
+        }
+    }
+    public class Book : NameObject
+    {
+        public Book(string name) : base(name)
         {
             grades = new List<double>();
             Name = name;
@@ -68,6 +81,7 @@ namespace GradeBook
         }
 
         private List<double> grades;
-        public string Name;
+
+        public const string CATEGORY = "Science";
     }
 }
